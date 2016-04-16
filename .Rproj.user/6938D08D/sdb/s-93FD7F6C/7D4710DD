@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "# my-project\n\nNow what about **emphasis** on the right _syllable_.\n\nPlaying with [Software Carpentry at UCSB](http://remi-daigle.github.io/2016-04-15-UCSB).\n\n## Introduction\n\nThis repository demonstrates **software** and _formats_:\n\n1. **Git**\n1. **Github**\n1. _Markdown_\n1. _Rmarkdown_\n\n## Conclusion\n\n![](https://octodex.github.com/images/labtocat.png)\n",
+    "created" : 1460829222192.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3856573837",
+    "id" : "7D4710DD",
+    "lastKnownWriteTime" : 1460828883,
+    "last_content_update" : 1460828883,
+    "path" : "~/Desktop/my-project/README.md",
+    "project_path" : "README.md",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
